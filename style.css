@@ -1,3 +1,10 @@
 *{
     background-color: blue;
+    width: 600px;
+    height: 600px;
+
 }
+.conteiner img{
+    display:block;
+    margin:auto;
+    }
