@@ -1,10 +1,9 @@
 *{
     background-color: blue;
-    width: 600px;
-    height: 600px;
-
+  
 }
-.conteiner img{
+img, h1{
     display:block;
     margin:auto;
-    }
+    text-align:center;
+}
